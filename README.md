@@ -1,4 +1,4 @@
-# Health Tech Stock Picker
+
 
 This is a Python notebook for primary analysis of health technology stocks, combining price data collection, technical trading signals, machine learning classification, and portfolio theory (CAPM and efficient frontier construction).
 
